@@ -10,9 +10,9 @@ module.exports = {
         mono: 'Ubuntu, sans-serif',
       },
       colors: {
-        brown: "#A9927D",
-        darkBlue: "#22333B",
-        gray: "#D7D6D6",
+        bege: "#FDFCDC",
+        darkBlue: "#0081A7",
+        rosa: "#F07167",
       }
     },
   },
